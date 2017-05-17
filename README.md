@@ -54,6 +54,7 @@
 
 - ### [行为识别 Activity recognition](https://github.com/jindongwang/activityrecognition)
 
+- ### [人工智能(多智能体) Artificial Intelligence(Multi-Agent)](http://ddl.escience.cn/f/ILKI)
 
 
 - - -
