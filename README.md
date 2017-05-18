@@ -9,7 +9,7 @@
 
 - Python
 	- [Learn X in Y minutes](https://learnxinyminutes.com/docs/python/)
-	
+	- [Python机器学习互动教程](https://www.springboard.com/learning-paths/machine-learning-python/)
 
 - Markdown
 	- [Mastering Markdown](https://guides.github.com/features/mastering-markdown/) - Markdown is a easy-to-use writing tool on the GitHu.  
