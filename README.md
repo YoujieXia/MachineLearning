@@ -136,8 +136,6 @@
 
 - [Packt每日限免电子书精选](http://ddl.escience.cn/f/IS4a):
 
-        - Learning Pandas
-        - Python Parallel Programming Cookbook
 	- Learning Data Mining with Python
 	- Matplotlib for python developers
 	- Machine Learing with Spark
@@ -153,6 +151,8 @@
 	- Data Analysis With R
 	- Java Deep Learning Essentials
 	- Learning Bayesian Models with R
+	- Learning Pandas
+	-Python Parallel Programming Cookbook
 ---
 
 ## 其他 Miscellaneous
