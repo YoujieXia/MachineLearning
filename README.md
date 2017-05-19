@@ -134,7 +134,25 @@
 	- 机器学习实践 测试驱动的开发方法 (图灵程序设计丛书) - [美] 柯克（Matthew Kirk）.a.azw3
 	- 机器学习：实用案例解析 (O'Reilly精品图书系
 
+- [Packt每日限免电子书精选](http://ddl.escience.cn/f/IS4a):
 
+        - Learning Pandas
+        - Python Parallel Programming Cookbook
+	- Learning Data Mining with Python
+	- Matplotlib for python developers
+	- Machine Learing with Spark
+        - Machine Learning with R
+	- Mastering R for Quantitative Finance
+	- Mastering matplotlib
+	- Neural Network Programming with Java
+	- Python Machine Learning
+	- R Data Visualization Cookbook
+	- R Deep Learning Essentials
+	- R Graphs Cookbook second edition
+	- D3.js By Example 
+	- Data Analysis With R
+	- Java Deep Learning Essentials
+	- Learning Bayesian Models with R
 ---
 
 ## 其他 Miscellaneous
