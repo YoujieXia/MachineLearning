@@ -139,7 +139,6 @@
 	- Learning Data Mining with Python
 	- Matplotlib for python developers
 	- Machine Learing with Spark
-        - Machine Learning with R
 	- Mastering R for Quantitative Finance
 	- Mastering matplotlib
 	- Neural Network Programming with Java
@@ -152,7 +151,8 @@
 	- Java Deep Learning Essentials
 	- Learning Bayesian Models with R
 	- Learning Pandas
-	-Python Parallel Programming Cookbook
+	- Python Parallel Programming Cookbook
+	- Machine Learning with R
 ---
 
 ## 其他 Miscellaneous
